@@ -1,0 +1,15 @@
+C:\Users\zolik\RiderProjects\PmP_labor_2\bin\Debug\net6.0\PmP_labor_2.exe
+C:\Users\zolik\RiderProjects\PmP_labor_2\bin\Debug\net6.0\PmP_labor_2.deps.json
+C:\Users\zolik\RiderProjects\PmP_labor_2\bin\Debug\net6.0\PmP_labor_2.runtimeconfig.json
+C:\Users\zolik\RiderProjects\PmP_labor_2\bin\Debug\net6.0\PmP_labor_2.dll
+C:\Users\zolik\RiderProjects\PmP_labor_2\bin\Debug\net6.0\PmP_labor_2.pdb
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\PmP_labor_2.csproj.AssemblyReference.cache
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\PmP_labor_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\PmP_labor_2.AssemblyInfoInputs.cache
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\PmP_labor_2.AssemblyInfo.cs
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\PmP_labor_2.csproj.CoreCompileInputs.cache
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\PmP_labor_2.dll
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\refint\PmP_labor_2.dll
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\PmP_labor_2.pdb
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\PmP_labor_2.genruntimeconfig.cache
+C:\Users\zolik\RiderProjects\PmP_labor_2\obj\Debug\net6.0\ref\PmP_labor_2.dll
